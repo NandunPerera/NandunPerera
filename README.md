@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NandunPerera
 - 👀 I’m interested in learning new Technologies
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on It industry
+- 💞️ I’m looking to collaborate on new Projects
 - 📫 How to reach me -nandunperera1999@gmail.com
 
 <!---
